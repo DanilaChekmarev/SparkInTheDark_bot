@@ -5,7 +5,7 @@
 
 ## Документация
 
-[Документация](https://danilachekmarev.github.io/SparkInTheDark_bot/) При помощи Doxygen лежит в /docs
+[Документация](https://danilachekmarev.github.io/SparkInTheDark_bot/) При помощи Doxygen лежит в /docs  
 https://danilachekmarev.github.io/SparkInTheDark_bot/
 
 ## Установка
