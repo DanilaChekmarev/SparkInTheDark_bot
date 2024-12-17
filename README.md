@@ -4,8 +4,9 @@
 Этот телеграм-бот предназначен для запроса публичных данных Центра банка и их отображения на экране. Он также настроен для работы с базой данных.
 
 ## Документация
-    [Документация](https://danilachekmarev.github.io/SparkInTheDark_bot/) При помощи Doxygen лежит в /docs
-    https://danilachekmarev.github.io/SparkInTheDark_bot/
+
+[Документация](https://danilachekmarev.github.io/SparkInTheDark_bot/) При помощи Doxygen лежит в /docs
+https://danilachekmarev.github.io/SparkInTheDark_bot/
 
 ## Установка
 
